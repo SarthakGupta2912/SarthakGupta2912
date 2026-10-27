@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sarthakgupta2912/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://sarthakgupta2912.github.io/Sarthak_Portfolio_Website/"><img src="https://img.shields.io/badge/Portfolio-0F172A?style=for-the-badge&logo=googlechrome&logoColor=22D3EE" alt="Portfolio" /></a>
-  <a href="mailto:sarthakgupta2912@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthakgupta2912@gmail.com" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <h3 align="center">I build offline-first mobile apps and on-device AI experiences.</h3>
@@ -89,8 +89,9 @@ SQLite-backed billing, PDF invoices, QR-paired hotspot ordering, and delta sync 
 
 <p align="center">
   <b>Have an idea, a project, or a role in mind?</b><br />
-  <a href="mailto:sarthakgupta2912@gmail.com">Email me →</a> ·
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sarthakgupta2912@gmail.com" target="_blank" rel="noopener">Email me →</a> ·
   <a href="https://www.linkedin.com/in/sarthakgupta2912/">Connect on LinkedIn →</a>
+  <br /><sub>or copy: <code>sarthakgupta2912@gmail.com</code></sub>
 </p>
 
 <p align="center">
